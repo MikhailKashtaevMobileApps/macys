@@ -17,12 +17,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
-        android:background="@color/colorPrimary"
-        app:itemIconTint="@android:color/white"
-        app:itemTextColor="@android:color/white"
+        android:background="@android:color/white"
+        app:itemIconTint="@drawable/nav_item_color_state"
+        app:itemTextColor="@drawable/nav_item_color_state"
         app:menu="@menu/bottom_navigation_menu"
-        style="@style/Widget.Design.BottomNavigationView">
+        style="@style/Widget.Design.BottomNavigationView"
+        android:elevation="4dp">
 
-    </android.support.design.widget.BottomNavigationView>
+</android.support.design.widget.BottomNavigationView>
 
 </FrameLayout>

@@ -29,12 +29,25 @@
                                           </PersistentState>
                                         </value>
                                       </entry>
+                                      <entry key="image">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="paddingPercent" value="-5" />
+                                                <entry key="trimmed" value="true" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
                                     </map>
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="imageAsset" value="C:\Users\Mike\Downloads\com-macys-android1541566800\res\drawable-hdpi-v4\ic_store_past.png" />
-                                      <entry key="outputName" value="ic_action_account" />
+                                      <entry key="assetType" value="IMAGE" />
+                                      <entry key="imageAsset" value="C:\Users\Mike\Downloads\com-macys-android1541566800\res\drawable-hdpi-v4\ic_action_shopping_bag.png" />
+                                      <entry key="outputName" value="ic_action_shopping_bag" />
                                     </map>
                                   </option>
                                 </PersistentState>
